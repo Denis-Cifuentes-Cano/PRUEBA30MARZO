@@ -19,6 +19,10 @@ public class Main {
         System.out.println("Dirección: " + "Zona 8, Huehuetenango");
         System.out.println("Numero cel: " + "48548846");
         
+        System.out.println("Nombre: Luis Humberto Ruiz Castillo");
+        System.out.println("Direccion: 8va Calle A 11-30 Zona 1 interior ");
+        System.out.println("Telefono: 37070944");
+        
     }
     
 }
