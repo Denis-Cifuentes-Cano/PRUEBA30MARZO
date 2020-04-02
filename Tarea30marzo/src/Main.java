@@ -23,6 +23,10 @@ public class Main {
         System.out.println("Direccion: 8va Calle A 11-30 Zona 1 interior ");
         System.out.println("Telefono: 37070944");
         
+        System.out.println("Nombre: Geovanni Alfredo Argueta Anzueto");
+        System.out.println("Direciión: 5av 3-67 Zona 6");
+        System.out.println("Telefono: 55748374");
+        
     }
     
 }
