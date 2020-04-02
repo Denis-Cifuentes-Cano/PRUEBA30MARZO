@@ -15,6 +15,10 @@ public class Main {
         System.out.println("Dirección: " + "Colonia El Oasis, Zona 8, Huehuetenango");
         System.out.println("Numero Tel: " + "42252923");
         
+        System.out.println("Nombre: " + "Marvin Arnoldo Ordóñez Jiménez");
+        System.out.println("Dirección: " + "Zona 8, Huehuetenango");
+        System.out.println("Numero cel: " + "48548846");
+        
     }
     
 }
