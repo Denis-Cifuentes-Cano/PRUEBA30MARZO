@@ -26,6 +26,8 @@ public class Main {
         System.out.println("Nombre: Geovanni Alfredo Argueta Anzueto");
         System.out.println("Direciión: 5av 3-67 Zona 6");
         System.out.println("Telefono: 55748374");
+        
+        System.out.println("Esto es una prueba");
     }
     
 }
