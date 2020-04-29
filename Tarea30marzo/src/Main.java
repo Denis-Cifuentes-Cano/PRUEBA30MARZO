@@ -29,6 +29,8 @@ public class Main {
         
         System.out.println("Esto es una prueba"); //hola
         
+        System.out.println("Esto es una prueba, de nuevo");
+        
     }
     
 }
